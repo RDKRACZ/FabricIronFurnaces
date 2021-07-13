@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "GXG",
+    "###"
+  ],
+  "key": {
+    "G": {
+      "tag": "c:glass"
+    },
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "X": {
+       "item": "ironfurnaces:gold_furnace"
+    }
+  },
+  "result": {
+    "item": "ironfurnaces:diamond_furnace"
+  }
+}
